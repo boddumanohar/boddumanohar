@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **boddumanohar/boddumanohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<p align="center">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=boddumanohar&show_icons=true&theme=vue-dark" alt="boddumanohar" />
+  <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=boddumanohar&theme=vue-dark" />
+</p>
+<!--
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnlangzi&layout=compact&theme=vue-dark"/>
+</p>
 -->
